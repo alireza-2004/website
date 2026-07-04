@@ -1,1 +1,6 @@
-the start of the site
+** the start of the site **
+
+** you can login to the site with you phone or your email **
+
+** plese choose what approach do you want to login **
+
